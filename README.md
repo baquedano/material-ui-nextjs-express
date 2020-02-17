@@ -13,7 +13,7 @@ Install it and run:
 
 ```sh
 npm install
-npm run dev
+npm start (will build and run the express server)
 ```
 
 or:
