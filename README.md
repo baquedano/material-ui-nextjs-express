@@ -2,10 +2,10 @@
 
 ## How to use
 
-Download the example [or clone the repo](https://github.com/mui-org/material-ui):
+Download the example [or clone the repo](git@github.com:baquedano/material-ui-nextjs-express.git):
 
 ```sh
-curl https://codeload.github.com/mui-org/material-ui/tar.gz/master | tar -xz --strip=2  material-ui-master/examples/nextjs
+git clone git@github.com:baquedano/material-ui-nextjs-express.git
 cd nextjs
 ```
 
@@ -16,9 +16,6 @@ npm install
 npm start (will build and run the express server)
 ```
 
-or:
-
-[![Edit on CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/mui-org/material-ui/tree/master/examples/nextjs)
 
 ## The idea behind the example
 
